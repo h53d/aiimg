@@ -1,0 +1,21 @@
+Purpose:
+AI CutoutCraft is a smart image editing tool powered entirely by on-device AI. No registration, no uploads, no internet required. Just tap a few times, and you’re done — cut out backgrounds, build layouts, and export your results. Everything works offline, locally, and privately.
+
+Key Features
+ - One-Tap AI Cutout: Remove backgrounds instantly using local CoreML models. Automatically detects the subject in any image — fast, accurate, and fully offline.
+ - Multi-Image Composition: Freely arrange multiple cutouts on the same canvas. Move, scale, rotate, and layer them however you want to create your ideal composition.
+ - Background Replacement: Use a transparent background, a solid color, or any image from your device — your choice.
+ - Intuitive Editing Tools: Use simple gestures to move, resize, and rotate each cutout. Interactions are optimized separately for macOS and iOS to feel right at home on every device.
+ - Smart Light Blending: Adjust lighting to improve realism and cohesion in your final image. Drag to position a light source, tweak its color, intensity, and range, and preview the result in real time.
+ - Flexible Export Options: Export your cutouts, composites, and light-adjusted images in a variety of sizes — perfect for product listings, social posts, resumes, profile pictures, and more.
+ - Privacy by Design: Everything is processed locally — your images never leave your device unless you choose to share them.
+ - No Ads. No Tracking. No Cloud:  A clean, focused tool — no interruptions, no surveillance.
+
+Technical Specifications
+ - Requires iOS 16, macOS 12 or later.
+ - Optimized for high performance and resource efficiency.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com or on X.com: @aceway2024
